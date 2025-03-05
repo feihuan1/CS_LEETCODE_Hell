@@ -25,10 +25,12 @@ public class Program
 
     static void Main()
     {
-        int[] numbers = { 3,2,4 };
-        int target = 6;
-        int[] result = TwoSum(numbers, target);
+        // int[] numbers = { 3,2,4 };
+        // int target = 6;
+        // int[] result = TwoSum(numbers, target);
 
-        Console.Write(string.Join(", ", result));
+        // Console.Write(string.Join(", ", result));
+
+        System.Console.WriteLine('b' - 'a');
     }
 }
